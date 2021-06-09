@@ -1,5 +1,5 @@
 # YTSearch
-A Node JS REST API for searching videos on Youtube platform
+A Node JS REST API for searching videos on Youtube platform.
 
 ## Usage
 - Clone the project.
