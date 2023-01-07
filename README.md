@@ -1,4 +1,4 @@
-# YTSearch
+# Youtube-Video-Search
 A Node JS REST API for searching videos on Youtube platform.
 
 ## Usage
